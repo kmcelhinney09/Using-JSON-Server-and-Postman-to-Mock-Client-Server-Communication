@@ -1,0 +1,31 @@
+{
+  "Ninja_Turtles": [
+    {
+      "id": 1,
+      "name": "Donatello",
+      "weapon": "Bow Staff"
+    },
+    {
+      "id": 2,
+      "name": "Michelangelo",
+      "weapon": "Nunchucks"
+    },
+    {
+      "name": "Leonardo",
+      "weapon": "Swords",
+      "id": 3
+    },
+    {
+      "name": "Raphael",
+      "weapon": "Pair of Sai",
+      "id": 4
+    }
+  ],
+  "Bad_Guys":[
+      {
+          "id": 1,
+          "name": "Shreder",
+          "weapbon": "Claws"
+  }
+  ]
+}
