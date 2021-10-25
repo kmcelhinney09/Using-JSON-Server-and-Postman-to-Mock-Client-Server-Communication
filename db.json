@@ -19,13 +19,18 @@
       "name": "Raphael",
       "weapon": "Pair of Sai",
       "id": 4
+    },
+    {
+      "name": "Kevin McElhinney",
+      "weapon": "Assasian Hidden Blade",
+      "id": 5
     }
   ],
-  "Bad_Guys":[
-      {
-          "id": 1,
-          "name": "Shreder",
-          "weapbon": "Claws"
-  }
+  "Bad_Guys": [
+    {
+      "id": 1,
+      "name": "Shreder",
+      "weapbon": "Claws"
+    }
   ]
 }
